@@ -1,0 +1,5 @@
+.css-pngmmi-MuiDataGrid-root
+  .MuiDataGrid-row:not(.MuiDataGrid-row--dynamicHeight)
+  > .MuiDataGrid-cell {
+  outline: none;
+}
